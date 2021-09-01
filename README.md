@@ -1,5 +1,6 @@
-### Hi there 👋
+### Ola Folks!👋
 
+Piyush this side. I have recently started my web development journey and quite unfamiliar with the features of Github. As I will learn more, I'd be updating my bio here. 
 <!--
 **piyushx/piyushx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
